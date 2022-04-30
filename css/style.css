@@ -4,9 +4,10 @@
     box-sizing: border-box;
 }
 
+
 body{
     font-family: 'Ubuntu', sans-serif;
-    
+ 
     
 }
 .navbar{
@@ -35,3 +36,9 @@ header{
     background-color: whitesmoke;
 }
 
+.About-bar{
+    margin: auto;
+    padding: 44px;
+    font-size: small;
+    
+}
